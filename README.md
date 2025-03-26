@@ -15,4 +15,4 @@ Run the following command to install required packages.
 `pip install -r requirements.txt`
 # Tutorial
 ## Model finetune
-cd BoneSLIP-CN/bash run_scripts/BLIP/mianyang+huaxi_BLIP_val_test.sh ${DATAPATH}
+`cd BoneSLIP-C/bash run_scripts/BLIP/mianyang+huaxi_BLIP_val_test.sh ${DATAPATH}`
