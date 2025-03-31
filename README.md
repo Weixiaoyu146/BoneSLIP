@@ -16,3 +16,5 @@ Run the following command to install required packages.
 # Tutorial
 ## Model finetune
 `cd BoneSLIP-C/bash run_scripts/BLIP/mianyang+huaxi_BLIP_val_test.sh ${DATAPATH}`
+## BoneSLIP-E finetune
+'python train.py' Dataset.py中 '.tsv'为二进制图片文件，'.jsonl'为图片描述文件
